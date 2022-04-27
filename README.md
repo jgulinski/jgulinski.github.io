@@ -1,6 +1,6 @@
-# jgulinski.github.io
+# Jakub Guliński
 
-## Jakub Guliński ##
+## Jakub Guliński
 
 ### Projekty #
 F1 in a nutschell \
